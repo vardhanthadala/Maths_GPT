@@ -8,6 +8,10 @@ An interactive **Streamlit chatbot** that can:
 
 ---
 
+https://mathsgpt-solver.streamlit.app/
+
+---
+
 ## 🚀 Features
 - Streamlit chat interface  
 - Uses **LangChain Tools**:
