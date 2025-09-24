@@ -7,8 +7,9 @@ An interactive **Streamlit chatbot** that can:
 - ⚡ Powered by **Groq LLM (Gemma2-9b-It)**  
 
 ---
+## 🚀 Live Demo  
+Try it here: 👉 [Math_Solver And Data_Search](https://mathsgpt-solver.streamlit.app/)  
 
-https://mathsgpt-solver.streamlit.app/
 
 ---
 
